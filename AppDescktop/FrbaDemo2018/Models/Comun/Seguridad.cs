@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Models.Comun
 {
-    public class seguridad
+    public class Seguridad
     {
 		public string pasarASha256(string input)
 		{

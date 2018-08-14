@@ -1,5 +1,6 @@
 ﻿using FrbaDemo.ABM_Funcionalidad;
 using FrbaDemo.ABM_Rol;
+using FrbaDemo.ABM_Usuario;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ namespace FrbaDemo
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new RolMain());
+			Application.Run(new UsuarioMain());
 		}
 	}
 }

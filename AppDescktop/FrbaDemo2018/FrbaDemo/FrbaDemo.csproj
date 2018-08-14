@@ -101,8 +101,38 @@
     <Compile Include="ABM Rol\RolPorFuncionalidadesModificar.Designer.cs">
       <DependentUpon>RolPorFuncionalidadesModificar.cs</DependentUpon>
     </Compile>
+    <Compile Include="ABM Usuario\UsuarioAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioAlta.Designer.cs">
+      <DependentUpon>UsuarioAlta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioMain.Designer.cs">
+      <DependentUpon>UsuarioMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioModificar.Designer.cs">
+      <DependentUpon>UsuarioModificar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RolesPorUsuario\AsignacionDeRolesPorUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RolesPorUsuario\AsignacionDeRolesPorUsuario.Designer.cs">
+      <DependentUpon>AsignacionDeRolesPorUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RolesPorUsuario\RolesPorUsuarioMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RolesPorUsuario\RolesPorUsuarioMain.Designer.cs">
+      <DependentUpon>RolesPorUsuarioMain.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="ABM Funcionalidad\FuncionalidadAlta.resx">
       <DependentUpon>FuncionalidadAlta.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +157,15 @@
     <EmbeddedResource Include="ABM Rol\RolPorFuncionalidadesModificar.resx">
       <DependentUpon>RolPorFuncionalidadesModificar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioAlta.resx">
+      <DependentUpon>UsuarioAlta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioMain.resx">
+      <DependentUpon>UsuarioMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioModificar.resx">
+      <DependentUpon>UsuarioModificar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -136,6 +175,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="RolesPorUsuario\AsignacionDeRolesPorUsuario.resx">
+      <DependentUpon>AsignacionDeRolesPorUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RolesPorUsuario\RolesPorUsuarioMain.resx">
+      <DependentUpon>RolesPorUsuarioMain.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -157,7 +202,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ABM Usuario\" />
     <Folder Include="Login\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

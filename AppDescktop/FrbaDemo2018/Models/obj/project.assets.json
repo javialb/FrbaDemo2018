@@ -262,7 +262,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "2cLtVEb3G+px/TbSz8iitEoyp+po8s+6mKGjv8uB9AuC0hEiICkkUC5IAAcLvpAAU5X6LRA9iZAw4eQdaLnqJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -931,11 +931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
+      "projectPath": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\AppDescktop\\FrbaDemo2018\\Models\\obj\\",
+      "outputPath": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
