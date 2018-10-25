@@ -39,7 +39,7 @@
 			// 
 			btnAlta.BackColor = System.Drawing.SystemColors.ActiveCaption;
 			btnAlta.ForeColor = System.Drawing.SystemColors.ControlText;
-			btnAlta.Location = new System.Drawing.Point(53, 76);
+			btnAlta.Location = new System.Drawing.Point(16, 88);
 			btnAlta.Margin = new System.Windows.Forms.Padding(5);
 			btnAlta.Name = "btnAlta";
 			btnAlta.Size = new System.Drawing.Size(201, 41);
@@ -72,14 +72,14 @@
             | System.Windows.Forms.AnchorStyles.Right)));
 			this.dgvUsuarios.BackgroundColor = System.Drawing.SystemColors.ControlDark;
 			this.dgvUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-			this.dgvUsuarios.Location = new System.Drawing.Point(16, 184);
+			this.dgvUsuarios.Location = new System.Drawing.Point(16, 149);
 			this.dgvUsuarios.Margin = new System.Windows.Forms.Padding(5);
 			this.dgvUsuarios.MultiSelect = false;
 			this.dgvUsuarios.Name = "dgvUsuarios";
 			this.dgvUsuarios.ReadOnly = true;
 			this.dgvUsuarios.RightToLeft = System.Windows.Forms.RightToLeft.No;
 			this.dgvUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-			this.dgvUsuarios.Size = new System.Drawing.Size(770, 204);
+			this.dgvUsuarios.Size = new System.Drawing.Size(770, 238);
 			this.dgvUsuarios.TabIndex = 15;
 			// 
 			// UsuarioMain

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Models;
+using Models.Servicio;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,7 +20,18 @@ namespace FrbaDemo.ABM_Usuario
 		}
 		public UsuarioModificar(int id)
 		{
-
+			try
+			{
+				Usuario usuario = new Usuario();
+				UsuarioService service = new UsuarioService();
+				usuario = service.obtenerUsuariosById(id);
+			}
+			catch (Exception ex)
+			{
+				MessageBox.Show("Error: " + ex.Message, "ERROR", MessageBoxButtons.OK);
+				throw;
+			}
+			InitializeComponent();
 		}
 		private void UsuarioModificar_Load(object sender, EventArgs e)
 		{

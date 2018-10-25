@@ -43,13 +43,15 @@
 			this.dtpFechaNacimiento = new System.Windows.Forms.DateTimePicker();
 			this.txtContraseña = new System.Windows.Forms.TextBox();
 			this.btnGuardar = new System.Windows.Forms.Button();
+			this.cbxTipoDocumento = new System.Windows.Forms.ComboBox();
+			this.lblTipoDoc = new System.Windows.Forms.Label();
 			this.SuspendLayout();
 			// 
 			// lblNombre
 			// 
 			this.lblNombre.AutoSize = true;
 			this.lblNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblNombre.Location = new System.Drawing.Point(61, 99);
+			this.lblNombre.Location = new System.Drawing.Point(67, 52);
 			this.lblNombre.Name = "lblNombre";
 			this.lblNombre.Size = new System.Drawing.Size(84, 24);
 			this.lblNombre.TabIndex = 0;
@@ -59,7 +61,7 @@
 			// 
 			this.lblApellido.AutoSize = true;
 			this.lblApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblApellido.Location = new System.Drawing.Point(61, 148);
+			this.lblApellido.Location = new System.Drawing.Point(67, 114);
 			this.lblApellido.Name = "lblApellido";
 			this.lblApellido.Size = new System.Drawing.Size(84, 24);
 			this.lblApellido.TabIndex = 1;
@@ -69,7 +71,7 @@
 			// 
 			this.lblNroDocumento.AutoSize = true;
 			this.lblNroDocumento.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblNroDocumento.Location = new System.Drawing.Point(61, 194);
+			this.lblNroDocumento.Location = new System.Drawing.Point(67, 188);
 			this.lblNroDocumento.Name = "lblNroDocumento";
 			this.lblNroDocumento.Size = new System.Drawing.Size(152, 24);
 			this.lblNroDocumento.TabIndex = 2;
@@ -79,7 +81,7 @@
 			// 
 			this.lblMail.AutoSize = true;
 			this.lblMail.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblMail.Location = new System.Drawing.Point(61, 239);
+			this.lblMail.Location = new System.Drawing.Point(67, 250);
 			this.lblMail.Name = "lblMail";
 			this.lblMail.Size = new System.Drawing.Size(49, 24);
 			this.lblMail.TabIndex = 3;
@@ -89,7 +91,7 @@
 			// 
 			this.lblTelefono.AutoSize = true;
 			this.lblTelefono.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblTelefono.Location = new System.Drawing.Point(61, 289);
+			this.lblTelefono.Location = new System.Drawing.Point(67, 319);
 			this.lblTelefono.Name = "lblTelefono";
 			this.lblTelefono.Size = new System.Drawing.Size(90, 24);
 			this.lblTelefono.TabIndex = 4;
@@ -99,7 +101,7 @@
 			// 
 			this.lblFechaNacimiento.AutoSize = true;
 			this.lblFechaNacimiento.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblFechaNacimiento.Location = new System.Drawing.Point(385, 99);
+			this.lblFechaNacimiento.Location = new System.Drawing.Point(385, 52);
 			this.lblFechaNacimiento.Name = "lblFechaNacimiento";
 			this.lblFechaNacimiento.Size = new System.Drawing.Size(193, 24);
 			this.lblFechaNacimiento.TabIndex = 5;
@@ -109,7 +111,7 @@
 			// 
 			this.lblPassword.AutoSize = true;
 			this.lblPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-			this.lblPassword.Location = new System.Drawing.Point(385, 148);
+			this.lblPassword.Location = new System.Drawing.Point(385, 114);
 			this.lblPassword.Name = "lblPassword";
 			this.lblPassword.Size = new System.Drawing.Size(111, 24);
 			this.lblPassword.TabIndex = 6;
@@ -118,7 +120,7 @@
 			// txtNombre
 			// 
 			this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-			this.txtNombre.Location = new System.Drawing.Point(152, 93);
+			this.txtNombre.Location = new System.Drawing.Point(65, 80);
 			this.txtNombre.Margin = new System.Windows.Forms.Padding(4);
 			this.txtNombre.Name = "txtNombre";
 			this.txtNombre.Size = new System.Drawing.Size(226, 30);
@@ -127,7 +129,7 @@
 			// txtApellido
 			// 
 			this.txtApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-			this.txtApellido.Location = new System.Drawing.Point(152, 142);
+			this.txtApellido.Location = new System.Drawing.Point(65, 143);
 			this.txtApellido.Margin = new System.Windows.Forms.Padding(4);
 			this.txtApellido.Name = "txtApellido";
 			this.txtApellido.Size = new System.Drawing.Size(226, 30);
@@ -136,7 +138,7 @@
 			// txtNroDoc
 			// 
 			this.txtNroDoc.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-			this.txtNroDoc.Location = new System.Drawing.Point(211, 188);
+			this.txtNroDoc.Location = new System.Drawing.Point(65, 216);
 			this.txtNroDoc.Margin = new System.Windows.Forms.Padding(4);
 			this.txtNroDoc.Name = "txtNroDoc";
 			this.txtNroDoc.Size = new System.Drawing.Size(226, 30);
@@ -145,7 +147,7 @@
 			// txtMail
 			// 
 			this.txtMail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-			this.txtMail.Location = new System.Drawing.Point(117, 233);
+			this.txtMail.Location = new System.Drawing.Point(65, 285);
 			this.txtMail.Margin = new System.Windows.Forms.Padding(4);
 			this.txtMail.Name = "txtMail";
 			this.txtMail.Size = new System.Drawing.Size(226, 30);
@@ -154,7 +156,7 @@
 			// txtTelefono
 			// 
 			this.txtTelefono.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-			this.txtTelefono.Location = new System.Drawing.Point(152, 283);
+			this.txtTelefono.Location = new System.Drawing.Point(65, 347);
 			this.txtTelefono.Margin = new System.Windows.Forms.Padding(4);
 			this.txtTelefono.Name = "txtTelefono";
 			this.txtTelefono.Size = new System.Drawing.Size(226, 30);
@@ -162,15 +164,15 @@
 			// 
 			// dtpFechaNacimiento
 			// 
-			this.dtpFechaNacimiento.Location = new System.Drawing.Point(584, 101);
+			this.dtpFechaNacimiento.Location = new System.Drawing.Point(379, 85);
 			this.dtpFechaNacimiento.Name = "dtpFechaNacimiento";
-			this.dtpFechaNacimiento.Size = new System.Drawing.Size(200, 22);
+			this.dtpFechaNacimiento.Size = new System.Drawing.Size(272, 22);
 			this.dtpFechaNacimiento.TabIndex = 14;
 			// 
 			// txtContraseña
 			// 
 			this.txtContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-			this.txtContraseña.Location = new System.Drawing.Point(503, 143);
+			this.txtContraseña.Location = new System.Drawing.Point(379, 143);
 			this.txtContraseña.Margin = new System.Windows.Forms.Padding(4);
 			this.txtContraseña.Name = "txtContraseña";
 			this.txtContraseña.Size = new System.Drawing.Size(226, 30);
@@ -188,11 +190,31 @@
 			this.btnGuardar.UseVisualStyleBackColor = true;
 			this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
 			// 
+			// cbxTipoDocumento
+			// 
+			this.cbxTipoDocumento.FormattingEnabled = true;
+			this.cbxTipoDocumento.Location = new System.Drawing.Point(379, 222);
+			this.cbxTipoDocumento.Name = "cbxTipoDocumento";
+			this.cbxTipoDocumento.Size = new System.Drawing.Size(226, 24);
+			this.cbxTipoDocumento.TabIndex = 17;
+			// 
+			// lblTipoDoc
+			// 
+			this.lblTipoDoc.AutoSize = true;
+			this.lblTipoDoc.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+			this.lblTipoDoc.Location = new System.Drawing.Point(385, 188);
+			this.lblTipoDoc.Name = "lblTipoDoc";
+			this.lblTipoDoc.Size = new System.Drawing.Size(181, 24);
+			this.lblTipoDoc.TabIndex = 18;
+			this.lblTipoDoc.Text = "Tipo de documento:";
+			// 
 			// UsuarioAlta
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(800, 450);
+			this.Controls.Add(this.lblTipoDoc);
+			this.Controls.Add(this.cbxTipoDocumento);
 			this.Controls.Add(this.btnGuardar);
 			this.Controls.Add(this.txtContraseña);
 			this.Controls.Add(this.dtpFechaNacimiento);
@@ -210,6 +232,7 @@
 			this.Controls.Add(this.lblNombre);
 			this.Name = "UsuarioAlta";
 			this.Text = "Alta de Usuario";
+			this.Load += new System.EventHandler(this.UsuarioAlta_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
@@ -232,5 +255,7 @@
 		private System.Windows.Forms.DateTimePicker dtpFechaNacimiento;
 		private System.Windows.Forms.TextBox txtContraseña;
 		private System.Windows.Forms.Button btnGuardar;
+		private System.Windows.Forms.ComboBox cbxTipoDocumento;
+		private System.Windows.Forms.Label lblTipoDoc;
 	}
 }

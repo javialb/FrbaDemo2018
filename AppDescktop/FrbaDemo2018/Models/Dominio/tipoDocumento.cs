@@ -6,7 +6,7 @@ namespace Models.Dominio
 {
     public class tipoDocumento
 	{
-		public int tipoDocumentoId { get; set; }
+		public int id { get; set; }
 		public string descripcion { get; set; }
 		public bool habilitado { get; set; }
 	}

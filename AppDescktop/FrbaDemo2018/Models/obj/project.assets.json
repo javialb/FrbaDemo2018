@@ -931,11 +931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\PROYECTOS DESKTOP\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
+      "projectPath": "D:\\PROYECTOS DESKTOP\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "D:\\DATOS\\2018\\MELI\\Gestion de datos segundo cuatri 2018\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\obj\\",
+      "outputPath": "D:\\PROYECTOS DESKTOP\\FrbaDemo2018\\AppDescktop\\FrbaDemo2018\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

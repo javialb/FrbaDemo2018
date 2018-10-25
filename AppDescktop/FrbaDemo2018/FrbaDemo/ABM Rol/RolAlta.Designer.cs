@@ -93,6 +93,7 @@
 			this.Controls.Add(this.lblRol);
 			this.Name = "RolAlta";
 			this.Text = "Alta de rol";
+			this.Load += new System.EventHandler(this.RolAlta_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 

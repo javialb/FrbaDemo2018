@@ -18,10 +18,14 @@ namespace Models.Comun
 		/// <param name="combo"></param>
 		/// <param name="opciones"></param>
 
-		public static void cargarComboBox(ComboBox combo, List<Object> opciones)
+		public static void cargarComboBox(ComboBox combo, List<Object> opciones, string _ValueMember, string _DisplayMember)
 		{
 			try
 			{
+				//Vaciar comboBox
+				combo.DataSource = null;
+				combo.ValueMember = _ValueMember;
+				combo.DisplayMember = _DisplayMember;
 				foreach (Object opcion in opciones)
 				{
 					combo.Items.Add(opcion);
@@ -32,6 +36,29 @@ namespace Models.Comun
 					throw ex;
 			}
 			
+		}
+		public static void cargarComboBox(ComboBox combo, DataTable opciones,
+											string _ValueMember,string _DisplayMember)
+		{
+			try
+			{
+				//Vaciar comboBox
+				combo.DataSource = null;
+				DataRow newRow = opciones.NewRow();
+				newRow[_ValueMember] = "0";
+				newRow[_DisplayMember] = "Seleccione una opcion";
+				opciones.Rows.Add(newRow);
+				combo.ValueMember = _ValueMember;
+				combo.DisplayMember = _DisplayMember;
+				opciones.DefaultView.Sort = _ValueMember;
+				combo.DataSource = opciones;
+				//combo.;
+			}
+			catch (Exception ex)
+			{
+				throw ex;
+			}
+
 		}
 		public static void cargarGridView(DataGridView dataGrid, List<Rol>lista)
 		{

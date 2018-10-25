@@ -1,4 +1,5 @@
 ﻿using Models.Base;
+using Models.Comun;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -8,16 +9,30 @@ namespace Models.Servicio
 {
     public class UsuarioService
     {
-		public int alta(Usuario user) {
+		public int altaUsuario(Usuario user) {
 			try
 			{
-
+				Seguridad seguridad = new Seguridad();
+				string passSHA256 = seguridad.pasarASha256(user.password);
 				DaoSP dao = new DaoSP();
-				return dao.EnviarDatosSP("UsuarioAlta",user.password,user.nombre,user.apellido,user.tipoDocumentoId,
+				return dao.EnviarDatosSP("UsuarioAlta", passSHA256, user.nombre,user.apellido,user.tipoDocumentoId,
 					user.numDocu,user.Mail,user.Telefono,user.Fecha_nacimiento_struct);
 			}
 			catch (Exception ex)
 			{throw ex;}
+		}
+		public int editarUsuario(Usuario user)
+		{
+			try
+			{
+				Seguridad seguridad = new Seguridad();
+				string passSHA256 = seguridad.pasarASha256(user.password);
+				DaoSP dao = new DaoSP();
+				return dao.EnviarDatosSP("UsuarioEditar", passSHA256, user.nombre, user.apellido, user.tipoDocumentoId,
+					user.numDocu, user.Mail, user.Telefono, user.Fecha_nacimiento_struct);
+			}
+			catch (Exception ex)
+			{ throw ex; }
 		}
 		public DataTable obtenerUsuariosDt()
 		{
@@ -25,6 +40,25 @@ namespace Models.Servicio
 			{
 				DaoSP daoSP = new DaoSP();
 				return daoSP.ObtenerDatosSP("getUsuarios");
+			}
+			catch (Exception ex)
+			{
+
+				throw ex;
+			}
+		}
+		public Usuario obtenerUsuariosById(int id)
+		{
+			try
+			{
+				DaoSP daoSP = new DaoSP();
+				DataTable dt;
+				dt = daoSP.ObtenerDatosSP("obtenerUsuarioById",id);
+				return new Usuario() {
+					nombre = dt.Columns["nombre"].ColumnName,
+					apellido= dt.Columns["apellido"].ColumnName,
+					numDocu= int.Parse(dt.Columns["numDocu"].ColumnName)
+				};
 			}
 			catch (Exception ex)
 			{

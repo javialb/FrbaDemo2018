@@ -81,5 +81,10 @@ namespace FrbaDemo.ABM_Rol
 		{
 
 		}
+
+		private void RolAlta_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
