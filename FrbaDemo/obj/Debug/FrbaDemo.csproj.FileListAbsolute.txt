@@ -1,0 +1,489 @@
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe.config
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.Properties.Resources.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.GenerateResource.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\netstandard.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.AppContext.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Concurrent.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.NonGeneric.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Specialized.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Console.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.Common.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Contracts.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Debug.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Process.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tools.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tracing.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Drawing.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Dynamic.Runtime.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Calendars.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.IsolatedStorage.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Pipes.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Expressions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Parallel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Queryable.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Http.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NameResolution.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NetworkInformation.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Ping.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Requests.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Security.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Sockets.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.Client.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ObjectModel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Reader.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.ResourceManager.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Writer.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Handles.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Numerics.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Claims.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Principal.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.SecureString.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.RegularExpressions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Overlapped.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Thread.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.ThreadPool.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Timer.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ValueTuple.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.ReaderWriter.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XDocument.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlDocument.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlSerializer.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\Models.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\Models.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csprojAssemblyReference.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe.config
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolAlta.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolMain.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CopyComplete
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.SqlClient.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadMain.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadAlta.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidades.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidadesModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe.config
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\netstandard.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.AppContext.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Concurrent.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.NonGeneric.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Specialized.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Console.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.Common.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Contracts.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Debug.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Process.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tools.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tracing.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Drawing.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Dynamic.Runtime.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Calendars.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.IsolatedStorage.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Pipes.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Expressions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Parallel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Queryable.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Http.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NameResolution.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NetworkInformation.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Ping.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Requests.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Security.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Sockets.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.Client.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ObjectModel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Reader.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.ResourceManager.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Writer.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Handles.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Numerics.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Claims.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Principal.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.SecureString.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.RegularExpressions.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Overlapped.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Thread.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.ThreadPool.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Timer.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.ValueTuple.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.ReaderWriter.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XDocument.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlDocument.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlSerializer.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\Models.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.SqlClient.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\bin\Debug\Models.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csprojAssemblyReference.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe.config
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadAlta.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadMain.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolAlta.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolMain.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidades.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidadesModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioMain.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioModificar.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.Properties.Resources.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.RolesPorUsuario.AsignacionDeRolesPorUsuario.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.RolesPorUsuario.RolesPorUsuarioMain.resources
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.GenerateResource.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CopyComplete
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioAlta.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csprojAssemblyReference.cache
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe.config
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadAlta.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadMain.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadModificar.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolAlta.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolMain.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolModificar.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidades.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidadesModificar.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioAlta.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioMain.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioModificar.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.Properties.Resources.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.RolesPorUsuario.AsignacionDeRolesPorUsuario.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.RolesPorUsuario.RolesPorUsuarioMain.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.GenerateResource.cache
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CoreCompileInputs.cache
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.pdb
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe.config
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.pdb
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\netstandard.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.AppContext.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Concurrent.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.NonGeneric.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Specialized.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Console.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.Common.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Contracts.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Debug.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Process.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tools.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tracing.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Drawing.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Dynamic.Runtime.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Calendars.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Extensions.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.IsolatedStorage.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Pipes.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Expressions.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Parallel.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Queryable.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Http.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NameResolution.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NetworkInformation.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Ping.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Requests.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Security.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Sockets.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.Client.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ObjectModel.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Extensions.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Reader.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.ResourceManager.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Writer.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Extensions.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Handles.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Numerics.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Claims.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Principal.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.SecureString.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.RegularExpressions.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Overlapped.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Thread.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.ThreadPool.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Timer.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ValueTuple.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.ReaderWriter.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XDocument.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlDocument.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlSerializer.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\Models.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.SqlClient.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\Models.pdb
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CopyComplete
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe.config
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.exe
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\FrbaDemo.pdb
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\netstandard.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.AppContext.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Concurrent.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.NonGeneric.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Collections.Specialized.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Console.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.Common.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Contracts.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Debug.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Process.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tools.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Diagnostics.Tracing.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Drawing.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Dynamic.Runtime.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Calendars.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Globalization.Extensions.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.IsolatedStorage.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.Pipes.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Expressions.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Parallel.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Linq.Queryable.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Http.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NameResolution.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.NetworkInformation.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Ping.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Requests.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Security.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.Sockets.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.Client.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Net.WebSockets.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ObjectModel.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Extensions.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Reflection.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Reader.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.ResourceManager.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Resources.Writer.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Extensions.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Handles.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Numerics.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Claims.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.Principal.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Security.SecureString.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Text.RegularExpressions.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Overlapped.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Thread.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.ThreadPool.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Threading.Timer.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.ValueTuple.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.ReaderWriter.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XDocument.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlDocument.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XmlSerializer.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\Models.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\System.Data.SqlClient.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\bin\Debug\Models.pdb
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csprojAssemblyReference.cache
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe.config
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadAlta.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadMain.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Funcionalidad.FuncionalidadModificar.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolAlta.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolMain.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolModificar.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidades.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Rol.RolPorFuncionalidadesModificar.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioAlta.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioMain.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioModificar.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.Properties.Resources.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.RolesPorUsuario.AsignacionDeRolesPorUsuario.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.RolesPorUsuario.RolesPorUsuarioMain.resources
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.GenerateResource.cache
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CoreCompileInputs.cache
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.csproj.CopyComplete
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.exe
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.pdb
+H:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioCambioPassword.resources
+D:\PROYECTOS DESKTOP\FrbaDemo2018\FrbaDemo\obj\Debug\FrbaDemo.ABM_Usuario.UsuarioCambioPassword.resources

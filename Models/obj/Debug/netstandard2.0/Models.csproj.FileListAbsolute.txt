@@ -1,0 +1,70 @@
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.deps.json
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Security.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Accessibility.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.deps.json
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.pdb
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Security.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Accessibility.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.dll
+D:\DATOS\2018\MELI\Gestion de datos segundo cuatri 2018\FrbaDemo2018\AppDescktop\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.pdb
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.deps.json
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.pdb
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Security.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Accessibility.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.dll
+D:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.pdb
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.deps.json
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Models.pdb
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Security.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Configuration.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Accessibility.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Deployment.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Security.xml
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Configuration.xml
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\Accessibility.xml
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Deployment.xml
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.dll
+H:\PROYECTOS DESKTOP\FrbaDemo2018\Models\obj\Debug\netstandard2.0\Models.pdb

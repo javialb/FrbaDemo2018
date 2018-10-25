@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8771448-0917-4A56-9E41-37F576709A5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FrbaDemo</RootNamespace>
+    <AssemblyName>FrbaDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Common, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.Common.4.3.0\lib\net451\System.Data.Common.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SqlClient, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.5.1\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM Funcionalidad\FuncionalidadAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Funcionalidad\FuncionalidadAlta.Designer.cs">
+      <DependentUpon>FuncionalidadAlta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Funcionalidad\FuncionalidadMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Funcionalidad\FuncionalidadMain.Designer.cs">
+      <DependentUpon>FuncionalidadMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Funcionalidad\FuncionalidadModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Funcionalidad\FuncionalidadModificar.Designer.cs">
+      <DependentUpon>FuncionalidadModificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Rol\RolAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Rol\RolAlta.Designer.cs">
+      <DependentUpon>RolAlta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Rol\RolMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Rol\RolMain.Designer.cs">
+      <DependentUpon>RolMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Rol\RolModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Rol\RolModificar.Designer.cs">
+      <DependentUpon>RolModificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Rol\RolPorFuncionalidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Rol\RolPorFuncionalidades.Designer.cs">
+      <DependentUpon>RolPorFuncionalidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Rol\RolPorFuncionalidadesModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Rol\RolPorFuncionalidadesModificar.Designer.cs">
+      <DependentUpon>RolPorFuncionalidadesModificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioAlta.Designer.cs">
+      <DependentUpon>UsuarioAlta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioCambioPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioCambioPassword.Designer.cs">
+      <DependentUpon>UsuarioCambioPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioMain.Designer.cs">
+      <DependentUpon>UsuarioMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM Usuario\UsuarioModificar.Designer.cs">
+      <DependentUpon>UsuarioModificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RolesPorUsuario\AsignacionDeRolesPorUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RolesPorUsuario\AsignacionDeRolesPorUsuario.Designer.cs">
+      <DependentUpon>AsignacionDeRolesPorUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RolesPorUsuario\RolesPorUsuarioMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RolesPorUsuario\RolesPorUsuarioMain.Designer.cs">
+      <DependentUpon>RolesPorUsuarioMain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ABM Funcionalidad\FuncionalidadAlta.resx">
+      <DependentUpon>FuncionalidadAlta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Funcionalidad\FuncionalidadMain.resx">
+      <DependentUpon>FuncionalidadMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Funcionalidad\FuncionalidadModificar.resx">
+      <DependentUpon>FuncionalidadModificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Rol\RolAlta.resx">
+      <DependentUpon>RolAlta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Rol\RolMain.resx">
+      <DependentUpon>RolMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Rol\RolModificar.resx">
+      <DependentUpon>RolModificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Rol\RolPorFuncionalidades.resx">
+      <DependentUpon>RolPorFuncionalidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Rol\RolPorFuncionalidadesModificar.resx">
+      <DependentUpon>RolPorFuncionalidadesModificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioAlta.resx">
+      <DependentUpon>UsuarioAlta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioCambioPassword.resx">
+      <DependentUpon>UsuarioCambioPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioMain.resx">
+      <DependentUpon>UsuarioMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM Usuario\UsuarioModificar.resx">
+      <DependentUpon>UsuarioModificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RolesPorUsuario\AsignacionDeRolesPorUsuario.resx">
+      <DependentUpon>AsignacionDeRolesPorUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RolesPorUsuario\RolesPorUsuarioMain.resx">
+      <DependentUpon>RolesPorUsuarioMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{9f34bd58-ba18-4844-acb6-d55f075db27c}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Login\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
